@@ -1,11 +1,5 @@
 # DreamPark Manager – Gestion de Parking
 
-Auteurs : Alaeddine & Karim  
-Université : Université Toulouse 2 – Jean Jaurès  
-Module : MI0C501T - Aspects statiques et dynamiques des langages – L3 MIASHS (2025)
-
----
-
 ## 1. Contexte du projet
 
 Ce projet a été réalisé dans le cadre du module de Programmation Python en Licence 3 MIASHS.  
@@ -129,4 +123,5 @@ pip install customtkinter
 ### Exécution
 Lancez le programme depuis le terminal :
 ```bash
+
 python src/main.py
