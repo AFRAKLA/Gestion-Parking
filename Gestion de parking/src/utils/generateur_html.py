@@ -243,7 +243,7 @@ class GenerateurRapport:
             </table>
             
             <div class="footer">
-                Application créer par <strong>Alaeddine et Karim</strong> - MIASHS - PROJET PYTHON 2025
+                Application créer par <strong>Ala eddine AFRAKLA</strong> 
             </div>
         </body>
         </html>
@@ -255,4 +255,5 @@ class GenerateurRapport:
         with open(full_path, "w", encoding="utf-8") as f:
             f.write(html_content)
         webbrowser.open('file://' + full_path)
+
         return full_path
