@@ -1,8 +1,6 @@
 # DreamPark Manager – Gestion de Parking
 
 ## 1. Contexte du projet
-
-Ce projet a été réalisé dans le cadre du module de Programmation Python en Licence 3 MIASHS.  
 L’objectif était de concevoir une application simulant le fonctionnement d’un parking automatisé, en intégrant une logique métier complète, une interface graphique, la persistance des données et des tests unitaires.
 
 Le projet DreamPark Manager vise à reproduire le fonctionnement réel d’un parking moderne, incluant les équipements matériels, les règles de gestion et le suivi de l’activité.
